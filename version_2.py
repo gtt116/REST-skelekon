@@ -11,7 +11,6 @@ So, with webob we can write app more gracefull.
 
 Reference: http://docs.webob.org/en/latest/reference.html
 """
-
 from paste import httpserver
 
 # the new package we used.
